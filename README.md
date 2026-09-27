@@ -1,6 +1,6 @@
-# Hi, I'm Nicolas
+# Hi!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-Projects, experiments, and automation.
+Building things somewhere between useful, unnecessary, and "wait, can I make this do that?"
 
 ## Contact
 
